@@ -15,4 +15,4 @@
 - Get Largest Digit
   - https://github.com/menghsuanl/sc-projects/blob/main/github_sc/get_largest_digit/largest_digit.py
 - Sierpinski Triangle
-  - htt
+  - https://github.com/menghsuanl/sc-projects/blob/main/github_sc/sierpinski_triangle/sierpinski.py
