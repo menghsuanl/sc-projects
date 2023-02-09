@@ -12,3 +12,7 @@
   - https://github.com/menghsuanl/sc-projects/blob/main/github_sc/name_searching/babynames.py
 - Photoshop 
   - https://github.com/menghsuanl/sc-projects/blob/main/github_sc/photoshop/stanCodoshop.py
+- Get Largest Digit
+  - https://github.com/menghsuanl/sc-projects/blob/main/github_sc/get_largest_digit/largest_digit.py
+- Sierpinski Triangle
+  - htt
