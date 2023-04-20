@@ -1,5 +1,5 @@
 # sc-projects
-#### The repository holds my python programming projects done through StanCode SC101 .
+#### The repository holds my python programming projects done through StanCode SC101 class.
 
 ## Project List:
 - Find Anagrams
