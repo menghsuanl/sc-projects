@@ -16,3 +16,5 @@
   - https://github.com/menghsuanl/sc-projects/blob/main/github_sc/get_largest_digit/largest_digit.py
 - Sierpinski Triangle
   - https://github.com/menghsuanl/sc-projects/blob/main/github_sc/sierpinski_triangle/sierpinski.py
+- Text-to_SQL Coding Assistant
+  - https://youtu.be/JNVHcq6Zvmg
